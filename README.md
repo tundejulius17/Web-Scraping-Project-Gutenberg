@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a web crawling task, which downloads the top-k ebooks (k=number of ebooks to download) from Project Gutenberg using BeautifulSoup library.
+This is a web crawling task, which downloads the top-k ebooks (k=number of ebooks to download) in the last 30 days from Project Gutenberg using BeautifulSoup library.
 
 # Data Processing
 The downloaded texts were processed using nltk library to tokenize and lemmatize the texts.
